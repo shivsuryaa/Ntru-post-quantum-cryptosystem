@@ -19,7 +19,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "https://nth--degree.vercel.app"
+        "https://ntru-post-quantum-cryptosystem.vercel.app"
     ],
     allow_credentials=False,
     allow_methods=["*"],
