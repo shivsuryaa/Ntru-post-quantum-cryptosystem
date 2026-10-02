@@ -706,7 +706,7 @@ function App() {
           FOOTER
       ================================================= */}
 
-      <footer>NTRU Post-Quantum Cryptosystem</footer>
+      <footer> Nth--degree | NTRU Post-Quantum Cryptosystem</footer>
     </div>
   );
 }
